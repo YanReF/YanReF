@@ -24,6 +24,7 @@
 <a href="https://github.com/GabrielRefr">
   <img src="https://github-readme-stats.vercel.app/api?username=GabrielRefr&show_icons=true&theme=dark"/>  
 </a>
+  <br>
 <a href="https://github.com/GabrielRefr">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=GabrielRefr&layout=compact&langs_count=8&theme=dark"/>
 </a>
