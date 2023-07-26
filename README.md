@@ -1,4 +1,4 @@
-# <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hello welcome 
+# <img src="https://github.com/GabrielRefr/GabrielRefr/blob/main/res/Hi%20(1).gif" width="29px"> Hello welcome 
 
 My name is Gabriel Yan and my nickname is Gabriel Ref
 
@@ -6,13 +6,16 @@ I’m from Brazil.
 
 I am learning:
 
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
+<img loading="lazy" src="https://github.com/GabrielRefr/GabrielRefr/blob/main/res/csharp-original.svg" width="40" height="40"/> <img loading="lazy" src="https://github.com/GabrielRefr/GabrielRefr/blob/main/res/cplusplus-original.svg" width="40" height="40"/>
 
-<img loading="lazy" src="https://github.com/GabrielRefr/GabrielRefr/blob/main/res/unityeditoricon_103179.svg" width="20" height="20"/>  Unity Engine Game Developer
+<br>
 
-<img loading="lazy" src="https://github.com/GabrielRefr/GabrielRefr/blob/main/res/mobile_icon-icons.com_58007.svg" width="20" height="20"/>  Android Game Modder
-                    
-          
+- <img loading="lazy" src="https://github.com/GabrielRefr/GabrielRefr/blob/main/res/unityeditoricon_103179.svg" width="20" height="20"/>  Unity Engine Game Developer
+
+- <img loading="lazy" src="https://github.com/GabrielRefr/GabrielRefr/blob/main/res/mobile_icon-icons.com_58007.svg" width="20" height="20"/>  Android Game Modder
+                  
+<br>
+       
 ### Stats
 <p>
 <a href="https://github.com/GabrielRefr">
