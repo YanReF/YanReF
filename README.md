@@ -1,16 +1,13 @@
-### Hi there 👋
+# Hello welcome 
+My name is Gabriel Yan and my nickname is Gabriel Ref!
 
-<!--
-**GabrielRefr/GabrielRefr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am learning:
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
+          
+### Stats
+<p>
+<a href="https://github.com/GabrielRefr">
+<img src="https://github-readme-stats.vercel.app/api?username=GabrielRefr&show_icons=true&theme=dark"/><img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=GabrielRefr&layout=compact&langs_count=8&theme=dark"/>
+</a>
+</p>
