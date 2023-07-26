@@ -13,6 +13,8 @@ I am learning:
 - <img loading="lazy" src="https://github.com/GabrielRefr/GabrielRefr/blob/main/res/unityeditoricon_103179.svg" width="20" height="20"/>  Unity Engine Game Developer
 
 - <img loading="lazy" src="https://github.com/GabrielRefr/GabrielRefr/blob/main/res/mobile_icon-icons.com_58007.svg" width="20" height="20"/>  Android Game Modder
+
+- <img loading="lazy" src="https://github.com/GabrielRefr/GabrielRefr/blob/main/res/pc_button_icon_151862.svg" width="20" height="20"/>  Computer Game Modder
                   
 <br>
        
