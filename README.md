@@ -18,10 +18,6 @@
 ### Tools:
 
 <p align="left">    ㅤ  <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a>  ㅤ   <a href="https://developer.android.com/studio" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" alt="androidstudio" width="40" height="40"/> </a>  ㅤ   <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" alt="visualstudio" width="40" height="40"/> </a>
-
-### Connect my:
-
-<p align="left">    ㅤ  <a href="https://t.me/GabrielYanF" target="_blank" rel="noreferrer"> <img src="https://github.com/YanReF/YanReF/blob/main/res/telegram_logo_icon_168692.svg" alt="telegram" width="40" height="40"/> </a>  ㅤ   <a href="https://www.youtube.com/@RefMod" target="_blank" rel="noreferrer"> <img src="https://github.com/YanReF/YanReF/blob/main/res/Youtube_icon-icons.com_66802.svg" alt="youtube" width="40" height="40"/> </a>  ㅤ   <a href="https://discord.gg/KEjJsWpy" target="_blank" rel="noreferrer"> <img src="https://github.com/YanReF/YanReF/blob/main/res/discord_icon_130958.svg" alt="discord" width="40" height="40"/> </a>
   
 ### Stats
 <p>
